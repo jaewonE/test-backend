@@ -96,3 +96,7 @@
 - 서버 환경 설정: 서버 환경 설정 및 최적화
 - 데이터 시각화: 분석된 데이터를 이용한 시각화 API 개발
 - 배포: 서비스 배포를 위한 서버 환경 설정 및 배포
+
+---
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/render-examples/fastapi)
