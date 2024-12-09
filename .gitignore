@@ -106,3 +106,15 @@ venv.bak/
 
 # Mac OS
 .DS_Store
+
+# dataset
+dataset/
+
+# logs
+logs/
+
+# assets
+assets/
+
+# database
+Database.db
