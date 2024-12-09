@@ -95,8 +95,8 @@ if __name__ == '__main__':
     file_path = os.path.join(PROJECT_DIR, 'dataset', 'pet_cry_sample_data.sql')
     database_path = os.path.join(PROJECT_DIR, 'Database.db')
 
-    start_date = datetime(2024, 10, 3)
-    end_date = datetime(2024, 11, 6)
+    start_date = datetime(2024, 11, 3)
+    end_date = datetime(2024, 12, 9)
 
     user = {
         "uid": "yTKx5CWGvLbjKVCRgve6K5Ne8cv2",
@@ -116,15 +116,15 @@ if __name__ == '__main__':
          "species": "dog",
          "photo_id": "1.jpeg",
          "sub_species": "푸들"},
-        # {'pet_id': 2,
-        #  'pet_type': 'dog',
-        #  'total_entries': 300,
-        #  'name': "루리",
-        #  "gender": "female",
-        #  "age": 2,
-        #  "species": "cat",
-        #  "photo_id": "2.jpeg",
-        #  "sub_species": "스코티쉬폴드"},
+        {'pet_id': 2,
+         'pet_type': 'dog',
+         'total_entries': 300,
+         'name': "루리",
+         "gender": "female",
+         "age": 2,
+         "species": "cat",
+         "photo_id": "2.jpeg",
+         "sub_species": "스코티쉬폴드"},
     ]
 
     # Clear the file before writing

@@ -112,9 +112,3 @@ dataset/
 
 # logs
 logs/
-
-# assets
-assets/
-
-# database
-Database.db
